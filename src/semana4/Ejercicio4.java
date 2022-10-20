@@ -1,4 +1,4 @@
-package semana3;
+package semana4;
 
 import java.util.Scanner;
 
